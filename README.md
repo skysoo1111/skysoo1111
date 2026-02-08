@@ -1,4 +1,5 @@
 ## 🧑‍💻 About Me
+
 # 👋 Hi, I'm Seongsoo Park
 
 - 🖥 **Tving(티빙)** 에서 백엔드 개발자로 일하고 있습니다
@@ -7,9 +8,10 @@
 - 📝 알고리즘 문제 풀이를 꾸준히 하고 있습니다
 - 📫 **skysoo1111@gmail.com**
 
-
 ### 🚀 Backend Developer @ Tving(티빙)
+
 8년차 백엔드 개발자 | Java & Kotlin | Cloud Native
+
 ---
 
 ## 🛠 Tech Stack
@@ -26,8 +28,14 @@
 ![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 #### Database
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+#### Message
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 #### Infra & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
