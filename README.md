@@ -1,18 +1,5 @@
-<div align="center">
-
-# 👋 Hi, I'm Seongsoo Park
-
-### 🚀 Backend Developer @ Tving(티빙)
-
-8년차 백엔드 개발자 | Java & Kotlin | Cloud Native
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskysoo1111&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
----
-
 ## 🧑‍💻 About Me
+# 👋 Hi, I'm Seongsoo Park
 
 - 🖥 **Tving(티빙)** 에서 백엔드 개발자로 일하고 있습니다
 - 👀 메인 언어는 **Java**, 현재 **Kotlin**에 관심을 갖고 있습니다
@@ -20,6 +7,9 @@
 - 📝 알고리즘 문제 풀이를 꾸준히 하고 있습니다
 - 📫 **skysoo1111@gmail.com**
 
+
+### 🚀 Backend Developer @ Tving(티빙)
+8년차 백엔드 개발자 | Java & Kotlin | Cloud Native
 ---
 
 ## 🛠 Tech Stack
@@ -75,20 +65,6 @@
 
 ### 📌 Programmers
 [![Programmers](https://img.shields.io/badge/Programmers-코딩테스트_풀이-7B68EE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDJMMyA3djEwbDkgNSA5LTVWN2wtOS01eiIvPjwvc3ZnPg==&logoColor=white)](https://github.com/skysoo1111/coding)
-
-</div>
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skysoo1111&repo=coding&theme=tokyonight&hide_border=true)](https://github.com/skysoo1111/coding)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skysoo1111&repo=jump&theme=tokyonight&hide_border=true)](https://github.com/skysoo1111/jump)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skysoo1111&repo=spring-cloud&theme=tokyonight&hide_border=true)](https://github.com/skysoo1111/spring-cloud)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skysoo1111&repo=common-springboot-v1&theme=tokyonight&hide_border=true)](https://github.com/skysoo1111/common-springboot-v1)
 
 </div>
 
